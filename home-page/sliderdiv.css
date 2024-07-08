@@ -87,7 +87,7 @@
 .dots-container .dot.active {
   background-color: #1a3f6b;
 }
-.ads-banner {
+/* .ads-banner {
   display: grid;
   grid-template-columns: 100% 100%;
   gap: 1em;
@@ -95,7 +95,7 @@
   margin: auto;
   align-items: center;
   justify-content: center;
-}
+} */
 .small-ads {
   position: relative;
   /* left: 10%; */
