@@ -69,11 +69,12 @@ svg {
   transform: translateY(-15%);
   box-shadow: #87cefa4d 0px 13px 47px -5px,
     /* Light Sky Blue */ rgba(173, 216, 230, 0.3) 0px 8px 16px -8px; /* Light Blue */
+  /* background-color: rgb(35, 179, 182); */
 }
 
 .card-button:hover {
-  border: 1px solid #87cefa4d;
-  background-color: #87cefa4d;
+  border: 1px solid #23b3b64d;
+  background-color: #23b3b64d;
 }
 
 .new-container {
@@ -124,7 +125,7 @@ svg {
 }
 
 .prev-button:hover {
-  background-color: #0056b3;
+  background-color: #23b3b6;
 }
 
 .next-button {
@@ -141,7 +142,7 @@ svg {
 }
 
 .next-button:hover {
-  background-color: #0056b3;
+  background-color: #23b3b6;
 }
 
 .prev-button-2 {
@@ -158,7 +159,7 @@ svg {
 }
 
 .prev-button-2:hover {
-  background-color: #0056b3;
+  background-color: #23b3b6;
 }
 
 .next-button-2 {
@@ -175,7 +176,7 @@ svg {
 }
 
 .next-button-2:hover {
-  background-color: #0056b3;
+  background-color: #23b3b6;
 }
 
 .navigation-buttons {
@@ -199,5 +200,5 @@ svg {
 }
 
 .load-more-button:hover {
-  background-color: #0056b3;
+  background-color: #23b3b6;
 }
